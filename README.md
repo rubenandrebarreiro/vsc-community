@@ -1,1 +1,1 @@
-# vsc-community
+# VSC Community
